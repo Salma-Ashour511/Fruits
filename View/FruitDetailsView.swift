@@ -14,7 +14,7 @@ struct FruitDetailsView: View {
     
     // MARK: - BODY
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ScrollView(.vertical, showsIndicators: false) {
                 VStack(alignment: .center, spacing: 20) {
                     // Image
@@ -49,7 +49,6 @@ struct FruitDetailsView: View {
                     .frame(maxWidth: 640, alignment: .center)
                 }
             }
-            .navigationBarHidden(true)
             .edgesIgnoringSafeArea(.top)
         }
     }
