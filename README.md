@@ -83,8 +83,9 @@ Fruit Details
 ![Simulator Screenshot - iPhone 16 Pro - 2025-05-25 at 16 10 57](https://github.com/user-attachments/assets/07a83815-e016-4853-b20d-56b863f5fca5)
 
 Settings
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-25 at 16 10 42](https://github.com/user-attachments/assets/1e81a999-b6a2-4a71-8b9e-61b9d20f3eae)
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-25 at 16 10 42](https://github.com/user-attachments/assets/afb08a67-0688-41c3-9c79-b56239e1ce58)
+
 
 
 
