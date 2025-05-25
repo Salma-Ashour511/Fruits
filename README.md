@@ -63,3 +63,28 @@ The project follows MVVM (Model-View-ViewModel) architecture pattern, which is w
 ## License
 
 This project is available under the MIT license. See the LICENSE file for more info. 
+
+## Screenshots
+
+Onboarding
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-25 at 16 10 46](https://github.com/user-attachments/assets/a6b7c268-e13a-4430-8f2b-bd63d0d78b25)
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-25 at 16 10 48](https://github.com/user-attachments/assets/db682975-24ac-47e6-8e40-23fa9d1609ea)
+
+Fruits List
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-25 at 16 10 36](https://github.com/user-attachments/assets/5ebcc09c-47f8-4013-ac23-8a76cf77bd26)
+
+Fruit Details
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-25 at 16 11 01](https://github.com/user-attachments/assets/47615582-1b8b-4b32-bb6d-ee30c62100ea)
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-25 at 16 10 57](https://github.com/user-attachments/assets/07a83815-e016-4853-b20d-56b863f5fca5)
+
+Settings
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-25 at 16 10 42](https://github.com/user-attachments/assets/afb08a67-0688-41c3-9c79-b56239e1ce58)
+
+
+
